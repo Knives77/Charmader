@@ -1,2 +1,3 @@
 # Charmader
-## *Para perder el tiempo*
+### *Para perder el tiempo*
+Hola soy Juan
